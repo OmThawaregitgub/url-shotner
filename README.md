@@ -61,7 +61,7 @@
 
 ---
 
-## 📑 Table of Contents
+## 📑 Table of Content
 
 <div align="center">
 
