@@ -730,16 +730,7 @@ flowchart LR
 
 ## 👤 Author
 
-<div align="center">
 
-<img src="https://img.shields.io/badge/Sumit_Raj-Backend_Engineer-3b82f6?style=for-the-badge&labelColor=0d1117" />
-
-<br/><br/>
-
-<b>M.Tech Applied AI & ML @ VNIT Nagpur</b><br/>
-<i>Ex-Software Engineer Intern @ Salesforce</i>
-
-<br/><br/>
 
 <a href="https://sumit966.github.io">
   <img src="https://img.shields.io/badge/Portfolio-Visit-3b82f6?style=for-the-badge&logo=googlechrome&logoColor=white" />
